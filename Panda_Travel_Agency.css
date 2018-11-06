@@ -1,0 +1,22 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:thistle;
+    color: white;
+    }
+    #blackandwhitesultanspalace{ width: 300px; height 600px;}
+#coloredsultanspalace{ width 300px; height 100px;}
+#doorstepofsultanspalace{ width 200px; height: 200px;}
+    
